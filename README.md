@@ -182,3 +182,11 @@ This project was developed as part of the Compiler Construction course to demons
 ---
 
 **MiniLang Compiler — Built with Python.**
+
+## Screenshots
+
+### Hello World Program
+
+This example demonstrates variable declaration, conditional statements, and program execution in MiniLang.
+
+![MiniLang Hello Program](screenshots/hello-program.png)
