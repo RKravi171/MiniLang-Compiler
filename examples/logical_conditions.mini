@@ -1,0 +1,14 @@
+let age = 22;
+let has_id = true;
+
+if (age >= 18 and has_id) {
+    print("Access granted");
+} else {
+    print("Access denied");
+}
+
+let is_weekend = false;
+
+if (not is_weekend) {
+    print("It is a working day");
+}

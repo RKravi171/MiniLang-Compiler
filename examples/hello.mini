@@ -1,0 +1,9 @@
+
+let age = 20;
+let minimum_age = 18;
+
+if (age >= minimum_age) {
+    print("You are eligible!");
+} else {
+    print("You are not eligible!");
+}

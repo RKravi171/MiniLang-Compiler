@@ -1,0 +1,23 @@
+
+let num1 = 20;
+let num2 = 5;
+
+let addition = num1 + num2;
+let subtraction = num1 - num2;
+let multiplication = num1 * num2;
+let division = num1 / num2;
+let remainder = num1 % num2;
+
+print("Calculator Results");
+
+print(addition);
+print(subtraction);
+print(multiplication);
+print(division);
+print(remainder);
+
+if (num1 > num2) {
+    print("First number is greater");
+} else {
+    print("Second number is greater");
+}
