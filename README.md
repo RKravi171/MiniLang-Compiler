@@ -190,3 +190,11 @@ This project was developed as part of the Compiler Construction course to demons
 This example demonstrates variable declaration, conditional statements, and program execution in MiniLang.
 
 ![MiniLang Hello Program](screenshots/hello-program.png)
+
+
+### Lexer – Tokenization Output
+
+The Lexer converts MiniLang source code into tokens and tracks their line and column positions.
+
+![Tokenization Output](screenshots/tokens-output.png)
+
